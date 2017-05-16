@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">servicetest</string>
+    <string name="bind_local_service">BindLocalService</string>
+</resources>
